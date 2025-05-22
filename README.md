@@ -1,5 +1,5 @@
                                        
-  💼 **Fullstack AI Developer | 8+ Years Experience | Tech Enthusiast   **
+  💼 **Fullstack AI Developer | 8+ Years Experience | Tech Enthusiast**
                                                                     
   🚀 I craft future-ready AI apps by blending creativity with code.  
      From frontend finesse to backend muscle and cloud power —    
