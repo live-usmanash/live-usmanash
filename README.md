@@ -1,4 +1,4 @@
-╔═════════════════════════════ Hey there! ════════════════════════════╗  
+
                         😎 **Usman Ash**                                                   
   💼 Fullstack AI Developer | 8+ Years Experience | Tech Enthusiast   
                                                                     
@@ -34,6 +34,5 @@
     ┃   ┣━━ Selenium, Postman                                    
     ┗━━ 🔧 Version Control                                       
         ┣━━ GitHub, Azure Repos, Bitbucket, Tortoise SVN         
-╚═══════════════════════════════════════════════════════════════════╝  
 
 > 💬 Always learning | 🤝 Open to collaboration | 🔍 Exploring AI & beyond
